@@ -99,12 +99,22 @@
 
 <p>
   <!-- Top Languages -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashant-java-dev&layout=compact&langs_count=8&cache_seconds=0" />
+  <img 
+    align="left" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashant-java-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" 
+  />
 </p>
 
 <p>
   <!-- GitHub Stats -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prashant-java-dev&show_icons=true&theme=radical&cache_seconds=0" />
+  <img 
+    align="center" 
+    src="https://github-readme-stats.vercel.app/api?username=prashant-java-dev&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=false" 
+  />
+  <br/>
+  <img 
+    src="https://nirzak-streak-stats.vercel.app/?user=prashant-java-dev&theme=dark&hide_border=false" 
+  />
 </p>
 
 ---
@@ -114,3 +124,4 @@
 ## 🐍 Contribution Snake
 <p>Watch the snake eating my GitHub contributions 🐍</p>
 <img src="https://raw.githubusercontent.com/prashant-java-dev/prashant-java-dev/output/snake.svg" width="100%" alt="snake animation" />
+
