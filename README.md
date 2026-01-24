@@ -124,24 +124,21 @@
 
 ## 📊 GitHub Stats
 
-<p>
-  <!-- Top Languages -->
-  <img 
-    align="left" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashant-java-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" 
-  />
-</p>
 
-<p>
+
   <!-- GitHub Stats -->
   <img 
     align="center" 
-    src="https://github-readme-stats.vercel.app/api?username=prashant-java-dev&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=false" 
+    src="https://github-readme-stats.vercel.app/api?username=prashant-java-dev&show_icons=true&theme=radical&hide_border=false&count_private=true" 
   />
-  <br/>
-  <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=prashant-java-dev&theme=dark&hide_border=false" 
-  />
+ <img align="center"
+  src="https://nirzak-streak-stats.vercel.app/?user=prashant-java-dev&theme=dark&hide_border=false" />
+
+</p>
+
+<p>
+  <!-- Top Languages -->
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashant-java-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"  />
 </p>
 
 ---
