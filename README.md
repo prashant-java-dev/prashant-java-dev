@@ -129,7 +129,7 @@
   <!-- GitHub Stats -->
   <img 
     align="center" 
-    src="https://github-readme-stats.vercel.app/api?username=prashant-java-dev&show_icons=true&theme=radical&hide_border=false&count_private=true" 
+    src="https://github-readme-stats-fast.vercel.app/api?username=prashant-java-dev&show_icons=true&theme=radical&count_private=true" 
   />
  <img align="center"
   src="https://nirzak-streak-stats.vercel.app/?user=prashant-java-dev&theme=dark&hide_border=false" />
@@ -138,7 +138,7 @@
 
 <p>
   <!-- Top Languages -->
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashant-java-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"  />
+  <img  align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=prashant-java-dev&theme=dark&layout=compact"  />
 </p>
 
 ---
