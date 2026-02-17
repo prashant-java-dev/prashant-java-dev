@@ -132,7 +132,7 @@
     src="https://github-readme-stats-fast.vercel.app/api?username=prashant-java-dev&show_icons=true&theme=radical&count_private=true" 
   />
  <img align="center"
-  src="https://nirzak-streak-stats.vercel.app/?user=prashant-java-dev&theme=dark&hide_border=false" />
+  src="https://streak-stats.demolab.com/?user=prashant-java-dev&theme=dark&hide_border=false" />
 
 </p>
 
